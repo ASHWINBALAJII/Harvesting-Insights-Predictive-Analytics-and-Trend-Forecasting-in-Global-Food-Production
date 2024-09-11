@@ -1,6 +1,6 @@
 # Harvesting-Insights-Predictive-Analytics-and-Trend-Forecasting-in-Global-Food-Production
 This project focuses on analyzing the global production of various food types between 1961 and 2023, using a dataset containing production quantities of foods like maize, rice, wheat, tomatoes, and many others.
-Data Preprocessing
+Data Preprocessing:
 The dataset contains production values for different foods, with some columns requiring cleaning. For example, column names were modified to remove spaces and special characters for easier manipulation. After this, the cleaned dataset included columns like Maize_Production_, Rice__Production_, and Wheat_Production_.Key Steps:
 Handling Missing Data: Missing values were filled using forward fill (ffill), ensuring no gaps in time-series data.
 Feature Creation: A new feature Maize_YoY_Growth was calculated to analyze the year-on-year growth of maize production.
