@@ -53,5 +53,5 @@ Anomalies: Notable anomalies were detected, such as years with significant drops
 
 Forecasting: The ARIMA model forecasts suggest a consistent increase in maize production in the near future, driven by global agricultural practices and increasing demand.
 
-Conclusion
+Conclusion:
 This project used machine learning and statistical techniques to analyze and predict food production trends. The findings can be useful for policymakers and agricultural planners to anticipate future demands and optimize production strategies. The combination of PCA, feature importance analysis, and time-series forecasting provides a comprehensive approach to understanding and predicting food production patterns globally.
