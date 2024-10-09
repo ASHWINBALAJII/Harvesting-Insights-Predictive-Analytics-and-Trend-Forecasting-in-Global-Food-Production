@@ -23,6 +23,7 @@ PCA was applied to reduce the complexity of the data and focus on the most impor
 Random Forest Feature Importance:
 
 After training a Random Forest model, feature importance was calculated to determine which food types have the most significant impact on predicting maize production. Foods like wheat and soybeans were found to be key predictors.
+
 Anomaly Detection:
 
 Using Z-scores, anomalies in maize production were detected. This helps identify outliers in the data, such as unexpected drops or increases in production.
